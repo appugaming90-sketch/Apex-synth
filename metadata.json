@@ -1,0 +1,6 @@
+{
+  "name": "Apex Economy: Cyber Syndicate Tycoon",
+  "description": "A neon cyberpunk isometric base-building strategy RPG and economy simulation featuring modular fortress construction, dynamic marketplace, career gig contracts, and high-roller crash casino.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
